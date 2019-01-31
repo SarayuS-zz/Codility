@@ -1,3 +1,11 @@
+/*
+ * Given a sentence S containing N characters, return the maximum number of words in the 
+ * sentence. 
+ * 
+ * For example, Given S = "Forget  CVs..Save time . x x", the function should return 2.
+ * 
+ */
+
 package com.SentenceLength;
 
 public class Main {
